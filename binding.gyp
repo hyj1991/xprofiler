@@ -16,6 +16,7 @@
                 "src/library/common.cc",
                 "src/library/utils.cc",
                 "src/library/writer.cc",
+                "src/library/lz4/lz4.cc",
                 "src/logbypass/log.cc",
                 "src/logbypass/cpu.cc",
                 "src/logbypass/heap.cc",
